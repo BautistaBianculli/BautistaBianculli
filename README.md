@@ -6,7 +6,7 @@ Soy un apasionado desarrollador de software con experiencia en múltiples lengua
 
 ```
 bautista = {
-  code: [Javascript, GO, HTML, CSS, .NET, Python, SQL/NOSQL],
+  code: [Javascript, GO, HTML, CSS, .NET, Python, C++, SQL/NOSQL],
   tools: [Docker, Apache Kafka, AWS],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
