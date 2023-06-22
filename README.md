@@ -4,7 +4,7 @@
 
 Soy un apasionado desarrollador de software con experiencia en múltiples lenguajes de programación y tecnologías. <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ2bG56NHRxcGI4dzh4emlucGxzMnR0MDBxejRpYzg3cXdvemNkeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/200w.webp" width="20">
 
-```
+```go
 var bautista = {
   code: [Javascript, GO, HTML, CSS, .NET, Python, C++, SQL/NOSQL],
   tools: [Docker, Apache Kafka, AWS],
